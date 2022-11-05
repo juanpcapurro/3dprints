@@ -1,3 +1,4 @@
 *.gcode
 */*.gcode
 own/*.stl
+own/*.FCStd1
