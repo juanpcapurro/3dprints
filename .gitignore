@@ -1,4 +1,5 @@
 *.gcode
 */*.gcode
 own/*.stl
+own/*.blend1
 own/*.FCStd1
