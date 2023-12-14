@@ -1,5 +1,5 @@
-*.gcode
-*/*.gcode
-own/*.stl
-own/*.blend1
-own/*.FCStd1
+**/*.gcode
+**/*.stl
+**/*.3mf
+**/*.blend1
+**/*.FCStd1
